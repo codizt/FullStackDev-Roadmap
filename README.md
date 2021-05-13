@@ -65,7 +65,7 @@ This involves setting up the directory and domain name. This is the final step o
 
 ## Design
 
-![uiux](uix.jpg)
+![uiux](uiux.jpg)
 
 This the process where we determine how the app looks and works. Looks are an important component when it comes to gaining and retaining users. This step invloves:
 
