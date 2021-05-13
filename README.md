@@ -1,7 +1,5 @@
 # Full Stack Dev Roadmap
 
----
-
 ## Contents
 
 - _[Research](#research)_
@@ -12,8 +10,6 @@
 - _[Testing](#testing)_
 - _[Deployment](#deployment)_
 - _[Conclusion](#conclusion)_
-
----
 
 ## Research
 
@@ -65,8 +61,6 @@ Good content is the key when it comes to gaining and retaining users and researc
 
 This involves setting up the directory and domain name. This is the final step of pre-development routine that is key in building great apps.
 
----
-
 ## Design
 
 This the process where we determine how the app looks and works. Looks are an important component when it comes to gaining and retaining users. This step invloves:
@@ -91,8 +85,6 @@ This is the step where the UI/UX of the website is made.
 
 This step corresponds to the design of UI/UX for the mobile.
 
----
-
 ## Backend
 
 Backend is the part where actions hidden from the user take place. It contains the databases and APIs that make up the working of the website.
@@ -111,8 +103,6 @@ API based backends are the easiest to develop since they seperate the frontend f
 
 API defines the functional working of an app or website. Having a single codebase of APIs help in maintaining consistency between web apps and mobile apps (including the ones in different platforms).
 
----
-
 ## Frontend
 
 Frontend corresponds to the part of the website which the user sees and can niteract with. It is equally important as the backend since the backends functionality depends solely on the working of the frontend.
@@ -127,15 +117,11 @@ This is the step where the UI/UX design of the website is made into an actual we
 
 This is where the frontend and backend are linked. This corresponds to using the APIs created in the backend to provide a bridge between the server and the user.
 
----
-
 ## Mobile Development
 
 There might be cases where a mobile app can also be used to aid the concepts of it's website.
 
 This can sometimes invlove two seperate code bases for Android and iOS, but can also be served by a single code base in the case of usage of technologies such as React-Native or Flutter.
-
----
 
 ## Testing
 
@@ -143,18 +129,12 @@ Testing invloves fixing the bugs and making the app production ready.
 
 This step is also an ideal place to include monetization methods such as advertisements to be displayed on the website.
 
----
-
 ## Deployment
 
 This final step involves deploying the website onto a host such as Google Cloud, Hostinger, Heroku etc. depending the needs of the app.
 
 It is also crucial that we market the app so that people would notice our product in the market.
 
----
-
 ## Conclusion
 
 **This is my idea of how to ideally build a full stack app and if you found this useful give it a star.**
-
----
