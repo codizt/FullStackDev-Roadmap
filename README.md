@@ -13,7 +13,7 @@
 
 ## Research
 
-![research](research.jpg)
+![research](img/research.jpg)
 
 Research provides an understanding of the users needs and a general idea of how the app is supposed to work. The main elements of a good project research are:
 
@@ -65,7 +65,7 @@ This involves setting up the directory and domain name. This is the final step o
 
 ## Design
 
-![uiux](uiux.jpg)
+![uiux](img/uiux.jpg)
 
 This the process where we determine how the app looks and works. Looks are an important component when it comes to gaining and retaining users. This step invloves:
 
@@ -97,7 +97,7 @@ This step corresponds to the design of UI/UX for the mobile.
 
 ## Backend
 
-![backend](backend.jpg)
+![backend](img/backend.jpg)
 
 Backend is the part where actions hidden from the user take place. It contains the databases and APIs that make up the working of the website.
 
@@ -120,7 +120,7 @@ API defines the functional working of an app or website. Having a single codebas
 
 ## Frontend
 
-![frontend](frontend.jpg)
+![frontend](img/frontend.jpg)
 
 Frontend corresponds to the part of the website which the user sees and can niteract with. It is equally important as the backend since the backends functionality depends solely on the working of the frontend.
 
@@ -139,7 +139,7 @@ This is where the frontend and backend are linked. This corresponds to using the
 
 ## Mobile Development
 
-![mobiledev](mobdev.jpg)
+![mobiledev](img/mobdev.jpg)
 
 There might be cases where a mobile app can also be used to aid the concepts of it's website.
 
@@ -147,7 +147,7 @@ This can sometimes invlove two seperate code bases for Android and iOS, but can 
 
 ## Testing
 
-![testing](test.jpg)
+![testing](img/test.jpg)
 
 Testing invloves fixing the bugs and making the app production ready.
 
@@ -155,7 +155,7 @@ This step is also an ideal place to include monetization methods such as adverti
 
 ## Deployment
 
-![deployment](deploy.jpg)
+![deployment](img/deploy.jpg)
 
 This final step involves deploying the website onto a host such as Google Cloud, Hostinger, Heroku etc. depending the needs of the app.
 
