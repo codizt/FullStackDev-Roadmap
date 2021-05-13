@@ -1,5 +1,7 @@
 # Full Stack Dev Roadmap
 
+![roadmap](img/FullStackDev_roadmap.png)
+
 ## Contents
 
 - _[Research](#research)_
