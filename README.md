@@ -65,6 +65,12 @@ This involves setting up the directory and domain name. This is the final step o
 
 This the process where we determine how the app looks and works. Looks are an important component when it comes to gaining and retaining users. This step invloves:
 
+> 1. Business Logic
+> 2. Logo Design
+> 3. Wireframing
+> 4. Web design
+> 5. Mobile design
+
 #### Business Logic
 
 Business Logic gives an understanding of the whole project is structured and what components must be present to provide a great user experience.
@@ -91,6 +97,9 @@ Backend is the part where actions hidden from the user take place. It contains t
 
 This step involves technologies such as Django, Flask and in API development it involves Django Rest Framework. It contains two very important parts:
 
+> 1. Database Design
+> 2. API Development
+
 #### Database Design
 
 This involves determing the structure of the database and also the initialisation of it. This also involves determining the suitable database according to the requirements.
@@ -108,6 +117,9 @@ API defines the functional working of an app or website. Having a single codebas
 Frontend corresponds to the part of the website which the user sees and can niteract with. It is equally important as the backend since the backends functionality depends solely on the working of the frontend.
 
 This step involves technology such as React, Vue or Angular. It invloves:
+
+> 1. Development
+> 2. API Integration
 
 #### Developing
 
